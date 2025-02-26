@@ -1,6 +1,9 @@
 This package is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
 To view a full copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
+Este pacote está licenciado sob a [Licença Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+[![Licença CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 Copyright (c) 2024, Luís Miguel da Luz Raimundo
 
