@@ -5,6 +5,34 @@ This tool is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 You may use and share it freely for non-commercial purposes, but modifications and derivative works are not allowed.
 See the LICENSE.md for full details.
 
+---
+
+## **Under the following conditions:**
+- **Attribution**:  
+  - You must **give appropriate credit**, provide a **link to the license**, and indicate if changes were made.
+  - You may do so in any **reasonable manner**, but **not in a way that suggests the licensor endorses you or your use**.
+
+- **NonCommercial**:  
+  - 🚫 **You may not use the material for commercial purposes**.
+
+- **NoDerivatives**:  
+  - 🚫 **If you remix, transform, or build upon the material, you may not distribute the modified material**.
+
+---
+
+## **Disclaimer**
+🚨 **No warranties are given**.  
+You **may not** use this material for **commercial purposes** or **create derivatives** of it.
+
+---
+
+## **You are free to:**
+✅ **Share** - Copy and redistribute the material in any medium, mode, or format for **non-commercial purposes**.
+
+The licensor **cannot revoke these freedoms** as long as you follow the license terms.
+
+---
+
 ## **Features**
 
 - **Dynamics Analysis**: Visualize and analyze dynamic markings (`p`, `f`, `mf`, etc.) throughout the score.
@@ -136,7 +164,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## **1. Acknowledgments**
+## **Acknowledgments**
 This software was developed by **Luís Raimundo**, as part of a broader study on Music Analysis.
 
 🔗 **DOI: [10.54499/2020.08817.BD 8D](https://doi.org/10.54499/2020.08817.BD)**
@@ -152,7 +180,7 @@ This software was developed by **Luís Raimundo**, as part of a broader study on
 
 ---
 
-## **2. Additional Acknowledgements**
+## **Additional Acknowledgements**
 - **music21** - Toolkit for computational music analysis.
 - **matplotlib** - Used for visualizations.
 - **All contributors** and testers who helped make this project possible.
@@ -162,27 +190,22 @@ This software was developed by **Luís Raimundo**, as part of a broader study on
 ## **Copyright**
 © 2024, Luís Miguel da Luz Raimundo
 
-## **You are free to:**
-✅ **Share** - Copy and redistribute the material in any medium, mode, or format for **non-commercial purposes**.
 
-The licensor **cannot revoke these freedoms** as long as you follow the license terms.
+## **Contacts**
 
----
+For further questions, please contact:
 
-## **Under the following conditions:**
-- **Attribution**:  
-  - You must **give appropriate credit**, provide a **link to the license**, and indicate if changes were made.
-  - You may do so in any **reasonable manner**, but **not in a way that suggests the licensor endorses you or your use**.
+Luís Raimundo
 
-- **NonCommercial**:  
-  - 🚫 **You may not use the material for commercial purposes**.
+Email adresses:
 
-- **NoDerivatives**:  
-  - 🚫 **If you remix, transform, or build upon the material, you may not distribute the modified material**.
+lmr.2020@outlook.pt
+
+luisraimundo@fcsh.unl.pt
 
 ---
 
-## **Disclaimer**
-🚨 **No warranties are given**.  
-You **may not** use this material for **commercial purposes** or **create derivatives** of it.
+
+
+
 
