@@ -27,7 +27,7 @@ A comprehensive tool for analyzing and visualizing musical scores in **MusicXML*
 pip install musicxml-analyzer
 
 
-Manual Installation
+### **Manual Installation**
 
 Clone the repository:
 
