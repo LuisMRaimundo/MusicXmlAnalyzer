@@ -20,59 +20,69 @@ A comprehensive tool for analyzing and visualizing musical scores in **MusicXML*
 - Python 3.8 or higher
 - Dependencies listed in `requirements.txt`
 
-### **Installation via pip**
+# MusicXML Analyzer
 
+![Version](https://img.shields.io/badge/version-1.1.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+A comprehensive tool for analyzing and visualizing musical scores in **MusicXML** format, focusing on **dynamics, note density, and spectral analysis**.
+
+## **Installation**
+
+### **Via pip**
 ```bash
-
 pip install musicxml-analyzer
-
+```
 
 ### **Manual Installation**
 
-Clone the repository:
-
+#### **Clone the repository:**
+```bash
 git clone https://github.com/your-username/musicxml-analyzer.git
 cd musicxml-analyzer
+```
 
-
-Install dependencies:
-
+#### **Install dependencies:**
+```bash
 pip install -r requirements.txt
+```
 
-
-Install the package in development mode:
-
+#### **Install the package in development mode:**
+```bash
 pip install -e .
+```
 
+---
 
-Usage
-Graphical Interface
+## **Usage**
+
+### **Graphical Interface**
 To start the graphical interface:
-
+```bash
 musicxml-gui
-
+```
 or
-
+```bash
 python -m musicxml_analyzer.gui.modern_gui
+```
 
-
-Command Line
+### **Command Line**
 For command line analysis:
-
-
+```bash
 musicxml-analyzer path/to/file.xml
+```
 
-Additional options:
-
+#### **Additional options:**
+```bash
 --no-dynamics       # Disable dynamics analysis
 --no-density        # Disable density analysis
 --no-spectral       # Disable spectral analysis
 --interval N        # Set density analysis interval (centiseconds)
 --save-path PATH    # Path to save results
+```
 
-
-Library Usage
-
+### **Library Usage**
+```python
 from musicxml_analyzer.main import process_musicxml
 
 # Analyze a MusicXML file
@@ -85,10 +95,12 @@ spectrum_data = results['spectrum']
 
 # Access generated figures
 figures = results['figures']
+```
 
+---
 
-Project Structure
-
+## **Project Structure**
+```
 musicxml_analyzer/
 ├── core/               # Core system components
 │   ├── cache.py        # Caching system for heavy analyses
@@ -106,70 +118,58 @@ musicxml_analyzer/
 ├── __init__.py
 ├── config.py           # Global settings
 └── main.py             # Main entry point
+```
 
+---
 
-Contributing
+## **Contributing**
+
 Contributions are welcome! Please follow these steps:
 
-1. Fork the repository.
-2. Create a feature branch
-
-git checkout -b feature/AmazingFeature
-
-3. Commit your changes:
-
-git push origin feature/AmazingFeature
-
-
-4. Push to the branch:
-
-git push origin feature/AmazingFeature
-
-
-5. Open a Pull Request.
-
-
-
-License
-
-This project is licensed under the MIT License – see the LICENSE.md file for details.
-
-##1 Acknowledgments
-
-This software was developed by Luís Raimundo, as part of a broader study on Music Analysis
-**DOI 10.54499/2020.08817.BD 8D** (https://doi.org/10.54499/2020.08817.BD) 
-
-and was funded by:
-
-**Foundation for Science and Technology (FCT)** - Portugal
-
-And also supported by:
-
-**Universidade NOVA de Lisboa**
-**Centre for the Study of Sociology and Musical Aesthetics** (CESEM)
-**Contemporary Music Group Investigation** (GIMC)
-**In2Past**
+1. **Fork the repository.**
+2. **Create a feature branch:**
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. **Commit your changes:**
+   ```bash
+   git commit -m "Adding AmazingFeature"
+   ```
+4. **Push to the branch:**
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. **Open a Pull Request.**
 
 ---
 
-
-
-##2 Acknowledgements
-music21 - Toolkit for computational music analysis.
-matplotlib - Used for visualizations.
-All contributors and testers who helped make this project possible.
-
+## **License**
+This project is licensed under the **MIT License** – see the [`LICENSE.md`](LICENSE.md) file for details.
 
 ---
 
-### **LICENSE.md**
-```md
-# License
+## **1. Acknowledgments**
+This software was developed by **Luís Raimundo**, as part of a broader study on Music Analysis.
 
-This package is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.  
-To view the full license, visit: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+🔗 **DOI: [10.54499/2020.08817.BD 8D](https://doi.org/10.54499/2020.08817.BD)**
+
+### **Funded by:**
+- **Foundation for Science and Technology (FCT) - Portugal**
+
+### **Supported by:**
+- **Universidade NOVA de Lisboa**
+- **Centre for the Study of Sociology and Musical Aesthetics (CESEM)**
+- **Contemporary Music Group Investigation (GIMC)**
+- **In2Past**
 
 ---
+
+## **2. Additional Acknowledgements**
+- **music21** - Toolkit for computational music analysis.
+- **matplotlib** - Used for visualizations.
+- **All contributors** and testers who helped make this project possible.
+
+
 
 ## **Copyright**
 © 2024, Luís Miguel da Luz Raimundo
