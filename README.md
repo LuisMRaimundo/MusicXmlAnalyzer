@@ -1,9 +1,9 @@
 # MusicXML Analyzer
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-A comprehensive tool for analyzing and visualizing musical scores in **MusicXML** format, focusing on **dynamics, note density, and spectral analysis**.
+# License
+This tool is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+You may use and share it freely for non-commercial purposes, but modifications and derivative works are not allowed.
+See the LICENSE.md for full details.
 
 ## **Features**
 
@@ -19,13 +19,6 @@ A comprehensive tool for analyzing and visualizing musical scores in **MusicXML*
 
 - Python 3.8 or higher
 - Dependencies listed in `requirements.txt`
-
-# MusicXML Analyzer
-
-![Version](https://img.shields.io/badge/version-1.1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-A comprehensive tool for analyzing and visualizing musical scores in **MusicXML** format, focusing on **dynamics, note density, and spectral analysis**.
 
 ## **Installation**
 
