@@ -136,11 +136,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## **License**
-This project is licensed under the **MIT License** – see the [`LICENSE.md`](LICENSE.md) file for details.
-
----
-
 ## **1. Acknowledgments**
 This software was developed by **Luís Raimundo**, as part of a broader study on Music Analysis.
 
