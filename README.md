@@ -134,11 +134,30 @@ License
 
 This project is licensed under the MIT License – see the LICENSE.md file for details.
 
-Acknowledgements
+##1 Acknowledgments
+
+This software was developed by Luís Raimundo, as part of a broader study on Music Analysis
+**DOI 10.54499/2020.08817.BD 8D** (https://doi.org/10.54499/2020.08817.BD) 
+
+and was funded by:
+
+**Foundation for Science and Technology (FCT)** - Portugal
+
+And also supported by:
+
+**Universidade NOVA de Lisboa**
+**Centre for the Study of Sociology and Musical Aesthetics** (CESEM)
+**Contemporary Music Group Investigation** (GIMC)
+**In2Past**
+
+---
+
+
+
+##2 Acknowledgements
 music21 - Toolkit for computational music analysis.
 matplotlib - Used for visualizations.
 All contributors and testers who helped make this project possible.
-
 
 
 ---
