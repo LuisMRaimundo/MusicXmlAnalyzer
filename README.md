@@ -30,6 +30,11 @@ The licensor **cannot revoke these freedoms** as long as you follow the license 
 
 ---
 
+## **Copyright**
+© 2024, Luís Miguel da Luz Raimundo
+
+---
+
 ## **Features**
 
 - **Dynamics Analysis**: Visualize and analyze dynamic markings (`p`, `f`, `mf`, etc.) throughout the score.
