@@ -171,15 +171,9 @@ This software was developed by **Luís Raimundo**, as part of a broader study on
 
 ## **Contacts**
 
-For further questions, please contact:
+For further questions, please contact: Luís Raimundo
 
-Luís Raimundo
-
-Email adresses:
-
-lmr.2020@outlook.pt
-
-luisraimundo@fcsh.unl.pt
+Email: lmr.2020@outlook.pt    /    luisraimundo@fcsh.unl.pt
 
 ---
 
