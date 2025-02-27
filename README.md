@@ -169,10 +169,7 @@ This software was developed by **Luís Raimundo**, as part of a broader study on
 - **All contributors** and testers who helped make this project possible.
 
 
-
-## **Copyright**
-© 2024, Luís Miguel da Luz Raimundo
-
+---
 
 ## **Contacts**
 
