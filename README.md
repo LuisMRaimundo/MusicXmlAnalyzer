@@ -1,8 +1,5 @@
 # MusicXML Analyzer
 
-This package is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
-To view the full license, visit: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 ---
 
 A comprehensive tool for analyzing and visualizing musical scores in **MusicXML** format, focusing on **dynamics, note density, and spectral analysis**.
