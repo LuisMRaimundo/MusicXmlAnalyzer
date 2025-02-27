@@ -5,7 +5,6 @@ This tool is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 You may use and share it freely for non-commercial purposes, but modifications and derivative works are not allowed.
 See the LICENSE.md for full details.
 
----
 
 ## **Under the following conditions:**
 - **Attribution**:  
@@ -18,13 +17,11 @@ See the LICENSE.md for full details.
 - **NoDerivatives**:  
   - 🚫 **If you remix, transform, or build upon the material, you may not distribute the modified material**.
 
----
 
 ## **Disclaimer**
 🚨 **No warranties are given**.  
 You **may not** use this material for **commercial purposes** or **create derivatives** of it.
 
----
 
 ## **You are free to:**
 ✅ **Share** - Copy and redistribute the material in any medium, mode, or format for **non-commercial purposes**.
@@ -40,6 +37,8 @@ The licensor **cannot revoke these freedoms** as long as you follow the license 
 - **Spectral Analysis**: Provide **Piano Roll** and **Heat Map** visualizations of pitch distribution.
 - **Modern Graphical Interface**: Intuitive and responsive interface with customizable themes.
 - **Result Export**: Export visualizations in **PNG, PDF, and SVG** formats.
+
+---
 
 ## **Installation**
 
@@ -140,27 +139,6 @@ musicxml_analyzer/
 ├── config.py           # Global settings
 └── main.py             # Main entry point
 ```
-
----
-
-## **Contributing**
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository.**
-2. **Create a feature branch:**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes:**
-   ```bash
-   git commit -m "Adding AmazingFeature"
-   ```
-4. **Push to the branch:**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request.**
 
 ---
 
